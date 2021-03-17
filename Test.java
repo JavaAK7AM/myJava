@@ -7,7 +7,9 @@ public class Test{
 
     }
 
-
+    public void m1(int x){
+		SOPLN("Hi");
+	}
 
    public Static void main(String[] args){
 
