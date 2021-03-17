@@ -1,7 +1,7 @@
 public class Test{
 
 
-    public boolean getPayment(){
+    public boolean doPayment(){
     
 
 
