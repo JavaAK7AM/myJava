@@ -2,12 +2,14 @@ public class Test{
 
 
     public boolean getPayment(){
-    
-
-
+    SOPLN("Hi");
+	SOPLN("Hi");
+	SOPLN("Hi");
     }
 
-    public void m1(int x){
+
+    public void create(int x){
+		SOPLN("Hi");
 		SOPLN("Hi");
 	}
 
