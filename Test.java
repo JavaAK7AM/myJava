@@ -7,8 +7,8 @@ public class Test{
 	SOPLN("Hi");
     }
 
+
     public void create(int x){
-		SOPLN("Hi");
 		SOPLN("Hi");
 		SOPLN("Hi");
 	}
